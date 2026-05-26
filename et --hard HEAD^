@@ -1,0 +1,35 @@
+[33mcommit 8143d87c633b6c4bddb0184de711d0234e86eaa4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: lijiong <19982948086@163.COM>
+Date:   Tue May 26 14:38:02 2026 +0800
+
+    append GPL
+
+[33mcommit eb6603fe92b2971121ca3ec2a842d0bbb4b98acd[m
+Author: lijiong <19982948086@163.COM>
+Date:   Tue May 26 14:34:05 2026 +0800
+
+    Delete 论文.doc
+
+[33mcommit f4517c18334becd8a739c4dfbe5a245152031543[m
+Author: lijiong <19982948086@163.COM>
+Date:   Tue May 26 14:31:04 2026 +0800
+
+    add distributed
+
+[33mcommit c7676b2701dd73dc77d214626b3664a1ac10e0f9[m
+Author: lijiong <19982948086@163.COM>
+Date:   Tue May 26 14:23:39 2026 +0800
+
+    wrote a practic file
+
+[33mcommit 2090ec3fbdf3dc251cc171f2bedf9ae0642a0bac[m
+Author: lijiong <lijiong9930@email.com>
+Date:   Mon May 25 19:00:40 2026 +0800
+
+    Add .gitignore to ignore nested Git folder
+
+[33mcommit 7f93bb0d3a66ecc36b39b279d548c4f275d0c4fc[m
+Author: lijiong <lijiong9930@email.com>
+Date:   Mon May 25 18:56:22 2026 +0800
+
+    wrote a 论文 file
